@@ -1,2 +1,2 @@
 # MLexpression
-machine learning transcriptomics comparative analysis
+machine learning cow counting using Tensorflow
