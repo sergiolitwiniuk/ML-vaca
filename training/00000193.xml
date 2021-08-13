@@ -1,0 +1,26 @@
+<annotation>
+	<folder>training</folder>
+	<filename>00000193.jpg</filename>
+	<path>/home/sergiolitwiniuk/Documentos/ML-vaca/training/00000193.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1417</width>
+		<height>1233</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bovino</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>175</xmin>
+			<ymin>24</ymin>
+			<xmax>1400</xmax>
+			<ymax>1189</ymax>
+		</bndbox>
+	</object>
+</annotation>
