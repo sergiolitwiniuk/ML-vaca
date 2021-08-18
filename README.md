@@ -1,2 +1,6 @@
 # MLexpression
-machine learning cow counting using Tensorflow
+Machine learning cow counting using Tensorflow
+
+Labeled with labelimg
+
+
