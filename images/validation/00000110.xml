@@ -1,0 +1,26 @@
+<annotation>
+	<folder>validation</folder>
+	<filename>00000110.jpg</filename>
+	<path>/media/fede/9A9289ED9289CDE7/xampp/htdocs/xampp/mlvaca/ML-vaca/images/validation/00000110.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bovino</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>117</xmin>
+			<ymin>149</ymin>
+			<xmax>320</xmax>
+			<ymax>404</ymax>
+		</bndbox>
+	</object>
+</annotation>
